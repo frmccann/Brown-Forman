@@ -1,1 +1,2 @@
 # Brown-Forman
+These scripts all together create one large dataframe (around 20 million entries) composed of data that was scraped from public macro economic data sources. I was running the scripts in R studio and the final goal was to automate the process of pulling new data,formatting it, uploading it to a datalake for forecasting, and repeating this process weekly. After I left further work was done on the scripts but this is what I wrote.
